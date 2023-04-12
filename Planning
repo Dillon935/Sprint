@@ -1,0 +1,86 @@
+Sprint Planning Document
+
+“Sprint planning is an event in scrum that kicks off the sprint. The purpose of sprint planning is to define what can be delivered in the sprint and how that work will be achieved. Sprint planning is done in collaboration with the whole scrum team.” - https://www.atlassian.com/agile/scrum/sprint-planning
+Outcome
+The goal of the sprint planning meeting is to know what your team will accomplish in the next sprint. This means that, at the end of the meeting, your scrum board should have all the tasks you want to complete in the sprint where each ticket is assigned to an engineer on the team. Ideally, you should be able to accomplish all the tasks on your scrum board without needing to roll over tasks to the next sprint and without needing to pull additional tasks in before the sprint is over. Keep in mind, that ideal is a goal not a hard rule.
+Steps
+Keep in mind that you do not have to follow each step one after the other, but rather you should run the meeting iteratively and hit all the points throughout, as needed.
+
+Backlog refinement - first, make sure your product backlog is updated. Make sure your backlog does not contain tickets you do not want to actually complete and does contain all the tickets that you do eventually need to complete. Then, make sure the tickets are ordered by priority, with the next tickets to work on at the top.
+
+Choose tasks - take the highest priority tickets from your backlog and move them into the To Do column of your scrum board. Make sure you try to only pull in items that you think you can complete in the next sprint, but it is always okay if you have to roll tasks over to the next sprint.
+
+Assign tasks - assign the tasks you pulled in to engineers on the team. Make sure every engineer has enough work to do during the sprint, but not too much that they would not be able to complete all their tasks.
+
+Assign story points - estimate a “difficulty” to each task in your next sprint. Some teams use estimated days of work (0.5 days, 1 day, 2 days, 3 days, etc), some teams use the fibonacci sequence (1 means easy, 2 is a little harder, 3 is even harder, 5 is complex, 8 is very complex, etc), and some teams use T-Shirt sizes (XS means easy, S is a little harder, M is even harder, L is complex, etc). Choose whichever makes sense for your team, but be consistent throughout the entire project.
+Team Name - 
+Sprint Name - 
+Backlog Refinement
+Which changes, if any, did your team make to your product backlog?
+
+Rolled Over Tasks
+Which tasks from the last sprint will be rolled over into this sprint, if any?
+
+Sprint Tasks
+List out the tasks you have in this sprint, along with their story points and assignee. Add rows as needed.
+
+Task Name
+Assignee
+Story Points
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
